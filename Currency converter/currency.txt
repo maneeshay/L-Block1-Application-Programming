@@ -1,0 +1,8 @@
+Euro (EUR), 1.06, €
+US Dollars (USD), 1.14, $
+Australian Dollars (AUD), 1.52, $
+Canadian Dollars (CAD),	1.77, $
+Icelandic króna (ISK),	130.62, kr
+United Arab Emirates Dirham (AED), 4.60, د.إ
+South African Rand (ZAR), 17.96, R
+Thai Baht (THB), 44.28,	฿
